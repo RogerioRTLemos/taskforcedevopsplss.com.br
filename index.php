@@ -13,6 +13,7 @@
                     <a href="aleatorio.php">Aleatorio</a>
                     <a href="completo.php">Tempo</a>
                     <a href="cep.php">CEP</a>
+                    <a href="#">teste</a>
                 </div><!--menu-->
             </div><!--center---->
         </header>
